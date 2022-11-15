@@ -5,7 +5,7 @@ import java.util.List;
 import com.generation.firstproyect.model.User;
 
 public interface UserService {
-    //esta fuincion me traerá TODOS los usuarios que tenga
+    //esta funcion me traerá TODOS los usuarios que tenga
     List<User> getAll();
 
     //esta funcion me dejará agregar usuarios
